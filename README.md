@@ -8,23 +8,22 @@ made by [IBM watsonx.ai](https://www.ibm.com/products/watsonx-ai), [Hugging Face
 url - https://motivatingminds-dailymotivationgenerator-9htgh75pja4clpyoghm9b.streamlit.app/
 ---
 
-## 🚀 Features
+## Features
 
-* 🎯 Personalized motivational quotes based on mood and tone
-* 🧠 Sentiment analysis 
-* ✨ Clean and interactive Streamlit UI
-* 📜 Quote history tracking
-* 🔐 Secure use of environment variables
-
+* Personalized motivational quotes based on mood and tone
+* Sentiment analysis 
+* Clean and interactive Streamlit UI
+* Quote history tracking
+* Secure use of environment variables
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 MotivatingMinds-DailyMotivationGenerator/
 🔹 main.py               # Streamlit app code
 🔹 requirements.txt      # Python dependencies
 🔹 .env.example          # Sample environment variable keys
-🔹 .gitignore            # Git ignore config
+🔹 .gitignore            # Git ignore configuration
 🔹 README.md             # Project documentation
 
 ---
@@ -107,6 +106,7 @@ project will be live
 * [IBM watsonx.ai](https://www.ibm.com/products/watsonx-ai)
 * [Hugging Face Transformers](https://huggingface.co/)
 * [Streamlit](https://streamlit.io/)
+
 * Made by [Kecia](https://github.com/Kecia152)
 
 ---
